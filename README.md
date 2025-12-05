@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**abibou1/abibou1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=00ff99&center=true&vCenter=true&width=650&lines=Hey+%F0%9F%91%8B+I'm+Abibou+Mbodji;AI+Engineer+%7C+Full-Stack+Developer;Building+production-ready+AI+applications" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><strong>Latest → Video Summarizer</strong>: Fully serverless AI app that turns any YouTube video into timestamped summaries using Whisper + RAG + LLMs. Deployed on AWS Lambda + S3.</p>
+
+</div>
+
+### 👨‍💻 About Me
+AI Engineer & Full-Stack Developer based in **New York City**  
+Specialized in production-ready AI systems, RAG pipelines, and scalable cloud backends.
+
+- Currently building serverless AI workflows on AWS
+- Shipping multimodal agents and video intelligence tools
+- Ex-IBM • Fortil • University of Michigan Generative AI Specialization
+- Open to AI Engineer / GenAI / Full-Stack opportunities
+
+### 🛠 Tech Stack & Tools
+```text
+AI & ML         → LangChain • Hugging Face • OpenAI API • RAG • CrewAI • Whisper • LlamaIndex
+Python Stack    → FastAPI • Streamlit • Pandas • NumPy • Matplotlib • Seaborn
+Cloud & DevOps  → AWS (Lambda • EventBridge • S3 • Secrets Manager) • GCP • Docker • GitHub Actions
+Backend         → Java • Spring Boot • Node.js • PostgreSQL • MongoDB
+Tools           → Cursor AI • GitHub Copilot • Postman • Swagger • Jira
