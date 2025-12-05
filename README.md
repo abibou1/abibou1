@@ -1,11 +1,5 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&pause=1000&color=00ff99&center=true&vCenter=true&width=650&lines=Hey+%F0%9F%91%8B+I'm+Abibou+Mbodji;AI+Engineer+%7C+Full-Stack+Developer;Building+production-ready+AI+applications" alt="Typing SVG" />
-
-<br/>
-
-<p><strong>Latest → Video Summarizer</strong>: Fully serverless AI app that turns any YouTube video into timestamped summaries using Whisper + RAG + LLMs. Deployed on AWS Lambda + S3.</p>
-
 </div>
 
 ### 👨‍💻 About Me
@@ -20,7 +14,7 @@ Specialized in production-ready AI systems, RAG pipelines, and scalable cloud ba
 ### 🛠 Tech Stack & Tools
 ```text
 AI & ML         → LangChain • Hugging Face • OpenAI API • RAG • CrewAI • Whisper • LlamaIndex
-Python Stack    → FastAPI • Streamlit • Pandas • NumPy • Matplotlib • Seaborn
+Python Stack    → Python • Django • FastAPI • Streamlit • Pandas • NumPy • Matplotlib • Seaborn
 Cloud & DevOps  → AWS (Lambda • EventBridge • S3 • Secrets Manager) • GCP • Docker • GitHub Actions
 Backend         → Java • Spring Boot • Node.js • PostgreSQL • MongoDB
 Tools           → Cursor AI • GitHub Copilot • Postman • Swagger • Jira
